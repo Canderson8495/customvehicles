@@ -5,17 +5,17 @@
     <Item type="CHandlingData">
       <handlingName>RX7VEILSIDE</handlingName>
       <fMass value="1400.000000" />
-      <fInitialDragCoeff value="17.000000" />
+      <fInitialDragCoeff value="21.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0" y="0" z="0" />
       <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.4000" />
-      <fDriveInertia value="2.000000" />
+      <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="3.800000" />
       <fClutchChangeRateScaleDownShift value="2.800000" />
-      <fInitialDriveMaxFlatVel value="187.000000" />
+      <fInitialDriveMaxFlatVel value="167.000000" />
       <fBrakeForce value="9.900000" />
       <fBrakeBiasFront value="0.825000" />
       <fHandBrakeForce value="11.600000" />
