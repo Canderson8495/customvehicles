@@ -32,7 +32,7 @@
       <rightTailLightMultiples value="2"/>
       <useRealLights value="true"/>
       <sirens>
-	  <!---police-siren1--->
+	  <police-siren1>
         <Item>
           <rotation>
             <delta value="0.00000000"/>
