@@ -205,7 +205,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>101_skyline_modkit</Item>
+        <Item>2056_skyline_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -228,7 +228,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="998" />
+      <lightSettings value="2056" />
       <sirenSettings value="0" />
     </Item>
   </variationData>
