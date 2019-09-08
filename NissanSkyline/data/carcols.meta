@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>998_skyline_modkit</kitName>
-      <id value="101" />	 	  
+      <kitName>2056_skyline_modkit</kitName>
+      <id value="2056" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
