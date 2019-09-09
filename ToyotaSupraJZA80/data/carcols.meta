@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
-      <kitName>980_jza80_modkit</kitName>
-      <id value="980" />	 	  
+      <kitName>7743_jza80_modkit</kitName>
+      <id value="7743" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
