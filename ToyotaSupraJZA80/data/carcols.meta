@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
-      <kitName>3673_jza80_modkit</kitName>
-      <id value="3673" />	 	  
+      <kitName>2099_jza80_modkit</kitName>
+      <id value="2099" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
@@ -536,7 +536,7 @@
   </Kits>
   <Lights>
     <Item>
-      <id value="3673" />	
+      <id value="2099" />	
       <indicator>
         <intensity value="0.375000" />
         <falloffMax value="2.500000" />
