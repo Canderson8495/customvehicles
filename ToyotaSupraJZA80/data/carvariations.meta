@@ -95,6 +95,10 @@
             <Item value="false" />
           </liveries>
         </Item>
+      </colors>
+      <kits>
+        <Item>3673_jza80_modkit</Item>
+      </kits>
         <Item>
           <indices content="char_array">
             112
@@ -115,7 +119,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>3673_jza80_modkit</Item>
+        <Item>3674_jza80_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -138,7 +142,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="3673" />        
+      <lightSettings value="3674" />        
       <sirenSettings value="0" />
     </Item>       
   </variationData>
