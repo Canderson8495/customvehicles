@@ -97,7 +97,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>999_viper_modkit</Item>
+        <Item>8073_viper_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -120,7 +120,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="998" />
+      <lightSettings value="8073" />
       <sirenSettings value="0" />
     </Item>
      <Item>
@@ -218,7 +218,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>8073_viper_modkit</Item>
+        <Item>8074_viper_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -241,7 +241,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="8073" />
+      <lightSettings value="8074" />
       <sirenSettings value="0" />
     </Item>
   </variationData>

@@ -488,8 +488,8 @@
       <liveryNames />
     </Item>
     <Item>
-      <kitName>997_acr_modkit</kitName>
-      <id value="997" />	 	  
+      <kitName>8074_viper_modkit</kitName>
+      <id value="8074" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods />
       <linkMods />
@@ -907,7 +907,7 @@
   </Kits>
     <Lights>
     <Item>
-      <id value="998" />	
+      <id value="8073" />	
       <indicator>
         <intensity value="0.375000" />
         <falloffMax value="2.500000" />
