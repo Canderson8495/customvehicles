@@ -218,7 +218,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>997_acr_modkit</Item>
+        <Item>2067_acr_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -241,7 +241,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="998" />
+      <lightSettings value="2067" />
       <sirenSettings value="0" />
     </Item>
   </variationData>
