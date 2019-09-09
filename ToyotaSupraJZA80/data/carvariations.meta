@@ -115,7 +115,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>5150_jza80_modkit</Item>
+        <Item>1008_jza80_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -138,7 +138,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="5150" />        
+      <lightSettings value="1008" />        
       <sirenSettings value="0" />
     </Item>       
   </variationData>
