@@ -218,7 +218,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>2057_viper_modkit</Item>
+        <Item>8073_viper_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -241,7 +241,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="2057" />
+      <lightSettings value="8073" />
       <sirenSettings value="0" />
     </Item>
   </variationData>

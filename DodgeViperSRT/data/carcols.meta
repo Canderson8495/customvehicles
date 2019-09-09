@@ -2,13 +2,13 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>2057_viper_modkit</kitName>
-      <id value="2057" />	 	  
+      <kitName>8073_viper_modkit</kitName>
+      <id value="8073" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
           <modelName>viper_spoil_1</modelName>
-          <modShopLabel>ACR</modShopLabel>
+          <modShopLabel>viper_spoil_1</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_c</Item> 
