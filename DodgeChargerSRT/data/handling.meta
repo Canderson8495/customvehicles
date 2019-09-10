@@ -48,7 +48,7 @@
       <fOilVolume value="5.000000" />
       <fSeatOffsetDistX value="0.000000" />
       <fSeatOffsetDistY value="0.000000" />
-      <fSeatOffsetDistZ value="0.000000" />
+      <fSeatOffsetDistZ value="-0.200000" />
       <nMonetaryValue value="115000" />
       <strModelFlags>440010</strModelFlags>
       <strHandlingFlags>820102</strHandlingFlags>
