@@ -6,14 +6,14 @@
     <Item type="CHandlingData">
       <handlingName>16CHARGER</handlingName>
       <fMass value="1650.000000" />
-      <fInitialDragCoeff value="0.810000" />
+      <fInitialDragCoeff value="18.010000" />
 	  <fDownforceModifier value="1.540000" />
       <fPercentSubmerged value="70.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.020000" z="0.010000" />
       <vecInertiaMultiplier x="1.140000" y="1.000000" z="1.380000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
-      <fInitialDriveForce value="0.468000" />
+      <fInitialDriveForce value="0.388000" />
       <fDriveInertia value="1.020000" />
       <fClutchChangeRateScaleUpShift value="2.100000" />
       <fClutchChangeRateScaleDownShift value="2.100000" />
