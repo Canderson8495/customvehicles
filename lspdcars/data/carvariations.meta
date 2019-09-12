@@ -108,8 +108,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="7"/>
-      <sirenSettings value="8"/>
+      <lightSettings value="9"/>
+      <sirenSettings value="10"/>
     </Item>
 <Item>
   <modelName>pdimpala</modelName>
@@ -212,8 +212,8 @@
   <plateProbabilities>
     <Probabilities />
   </plateProbabilities>
-  <lightSettings value="7" />
-  <sirenSettings value="8" />
+  <lightSettings value="8" />
+  <sirenSettings value="9" />
   </Item>
     <Item>
       <modelName>pdcharger</modelName>
@@ -251,8 +251,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="7" />
-      <sirenSettings value="8" />
+      <lightSettings value="8" />
+      <sirenSettings value="9" />
    </Item>
     <Item>
       <modelName>pdcvpi</modelName>
@@ -290,8 +290,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="7" />
-      <sirenSettings value="8" />
+      <lightSettings value="8" />
+      <sirenSettings value="9" />
    </Item>
     </variationData>
 </CVehicleModelInfoVariation>
