@@ -108,8 +108,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="2"/>
-      <sirenSettings value="3"/>
+      <lightSettings value="3"/>
+      <sirenSettings value="4"/>
     </Item>
 <Item>
   <modelName>pdimpala</modelName>
@@ -251,8 +251,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="2" />
-      <sirenSettings value="3" />
+      <lightSettings value="3" />
+      <sirenSettings value="4" />
    </Item>
     <Item>
       <modelName>pdcvpi</modelName>
