@@ -1554,7 +1554,7 @@
 		  <rightTailLightMultiples value="2"/>
 		  <useRealLights value="true"/>
 		  <sirens>
-			<Item> <!--siren1-->
+			<Item>
 			  <rotation>
 				<delta value="1.57079633"/>
 				<start value="0.00000000"/>
@@ -1590,7 +1590,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren2-->
+			<Item>
 			  <rotation>
 				<delta value="0.00000000"/>
 				<start value="0.00000000"/>
@@ -1626,7 +1626,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren3-->
+			<Item>
 			  <rotation>
 				<delta value="-1.57079633"/>
 				<start value="0.00000000"/>
@@ -1662,7 +1662,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren4-->
+			<Item>
 			  <rotation>
 				<delta value="1.57079633"/>
 				<start value="0.00000000"/>
@@ -1698,7 +1698,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren5-->
+			<Item>
 			  <rotation>
 				<delta value="0.00000000"/>
 				<start value="0.00000000"/>
@@ -1734,7 +1734,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren6-->
+			<Item>
 			  <rotation>
 				<delta value="-1.57079633"/>
 				<start value="0.00000000"/>
@@ -1770,7 +1770,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren7-->
+			<Item>
 			  <rotation>
 				<delta value="0.00000000"/>
 				<start value="0.00000000"/>
@@ -1806,7 +1806,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren8-->
+			<Item>
 			  <rotation>
 				<delta value="0.00000000"/>
 				<start value="0.00000000"/>
@@ -1842,7 +1842,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren9-->
+			<Item>
 			  <rotation>
 				<delta value="0.00000000"/>
 				<start value="0.00000000"/>
@@ -1878,7 +1878,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren10-->
+			<Item>
 			 <rotation>
 				<delta value="0.00000000"/>
 				<start value="0.00000000"/>
@@ -1914,7 +1914,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren11-->
+			<Item>
 			  <rotation>
 				<delta value="3.14159265"/>
 				<start value="0.00000000"/>
@@ -1950,7 +1950,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren12-->
+			<Item>
 			  <rotation>
 				<delta value="3.14159265"/>
 				<start value="0.00000000"/>
@@ -1986,7 +1986,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren13-->
+			<Item>
 			  <rotation>
 				<delta value="1.57079633"/>
 				<start value="0.00000000"/>
@@ -2022,7 +2022,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren14-->
+			<Item>
 			 <rotation>
 				<delta value="-1.57079633"/>
 				<start value="0.00000000"/>
@@ -2058,7 +2058,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren15-->
+			<Item>
 			  <rotation>
 				<delta value="3.14159265"/>
 				<start value="0.00000000"/>
@@ -2094,7 +2094,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren16-->
+			<Item>
 			  <rotation>
 				<delta value="3.14159265"/>
 				<start value="0.00000000"/>
@@ -2130,7 +2130,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren17-->
+			<Item>
 			  <rotation>
 				<delta value="0.00000000"/>
 				<start value="0.00000000"/>
@@ -2166,7 +2166,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren18-->
+			<Item>
 			  <rotation>
 				<delta value="0.00000000"/>
 				<start value="0.00000000"/>
@@ -2202,7 +2202,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren19-->
+			<Item>
 			  <rotation>
 				<delta value="0.00000000"/>
 				<start value="0.00000000"/>
@@ -2238,7 +2238,7 @@
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
 			</Item>
-			<Item> <!--siren20-->
+			<Item>
 			  <rotation>
 				<delta value="0.00000000"/>
 				<start value="0.00000000"/>

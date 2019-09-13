@@ -213,7 +213,7 @@
     <Probabilities />
   </plateProbabilities>
   <lightSettings value="1" />
-  <sirenSettings value="618" />
+  <sirenSettings value="1" />
   </Item>
     <Item>
       <modelName>pdcharger</modelName>
