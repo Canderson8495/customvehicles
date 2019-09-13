@@ -213,7 +213,7 @@
     <Probabilities />
   </plateProbabilities>
   <lightSettings value="1" />
-  <sirenSettings value="2" />
+  <sirenSettings value="1" />
   </Item>
     <Item>
       <modelName>pdcharger</modelName>
@@ -252,7 +252,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="2" />
+      <sirenSettings value="1" />
    </Item>
     <Item>
       <modelName>pdcvpi</modelName>
