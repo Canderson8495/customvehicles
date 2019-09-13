@@ -251,8 +251,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="12" />
-      <sirenSettings value="13" />
+      <lightSettings value="134" />
+      <sirenSettings value="134" />
    </Item>
     <Item>
       <modelName>pdcvpi</modelName>
