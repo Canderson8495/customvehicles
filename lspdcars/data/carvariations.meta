@@ -261,10 +261,8 @@
           <indices content="char_array">
             134
             134
-            134
-            134
-            134
-            134
+            156
+            140
           </indices>
           <liveries>
             <Item value="false" />
@@ -290,8 +288,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="14" />
-      <sirenSettings value="15" />
+      <lightSettings value="1" />
+      <sirenSettings value="2" />
    </Item>
     </variationData>
 </CVehicleModelInfoVariation>
