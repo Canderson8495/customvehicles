@@ -45,9 +45,9 @@
       <fEngineDamageMult value="1.500000" />
       <fPetrolTankVolume value="65.000000" />
       <fOilVolume value="5.000000" />
-      <fSeatOffsetDistX value="0.050000" />
-      <fSeatOffsetDistY value="-01.000000" />
-      <fSeatOffsetDistZ value="0.050000" />
+      <fSeatOffsetDistX value="0.000000" />
+      <fSeatOffsetDistY value="0.000000" />
+      <fSeatOffsetDistZ value="0.000000" />
       <nMonetaryValue value="95000" />
       <strModelFlags>400010</strModelFlags>
       <strHandlingFlags>0</strHandlingFlags>
