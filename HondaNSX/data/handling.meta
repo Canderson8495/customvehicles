@@ -7,7 +7,7 @@
 <fMass value="1950.000000" />
       <fInitialDragCoeff value="11.000000" />
       <fPercentSubmerged value="85.000000" />
-      <vecCentreOfMassOffset x="0.000000" y="-0.070000" z="-0.000000" />
+      <vecCentreOfMassOffset x="0.000000" y="-0.070000" z="0.000000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
       <fDriveBiasFront value="0.200000" />
       <nInitialDriveGears value="4" />
@@ -46,7 +46,7 @@
       <fPetrolTankVolume value="65.000000" />
       <fOilVolume value="5.000000" />
       <fSeatOffsetDistX value="0.050000" />
-      <fSeatOffsetDistY value="0.000000" />
+      <fSeatOffsetDistY value="-0.300000" />
       <fSeatOffsetDistZ value="0.050000" />
       <nMonetaryValue value="95000" />
       <strModelFlags>400010</strModelFlags>
