@@ -4,7 +4,7 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>2F2FGTS</handlingName>
-      <fMass value="1600.000000" />
+      <fMass value="1500.000000" />
       <fInitialDragCoeff value="9.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
@@ -65,7 +65,7 @@
     </Item>
     <Item type="CHandlingData">
       <handlingName>FNFLAN</handlingName>
-      <fMass value="1600.000000" />
+      <fMass value="1500.000000" />
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.050000" z="-0.158000" />
@@ -126,7 +126,7 @@
     </Item>
     <Item type="CHandlingData">
       <handlingName>2F2FMK4</handlingName>
-      <fMass value="1600.000000" />
+      <fMass value="1500.000000" />
       <fInitialDragCoeff value="6.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
@@ -187,7 +187,7 @@
     </Item>
     <Item type="CHandlingData">
       <handlingName>FF4WRX</handlingName>
-      <fMass value="1600.000000" />
+      <fMass value="1500.000000" />
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="-0.250000" />
@@ -248,7 +248,7 @@
     </Item>
     <Item type="CHandlingData">
       <handlingName>FNFMK4</handlingName>
-      <fMass value="1600.000000" />
+      <fMass value="1500.000000" />
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.050000" z="-0.158000" />
@@ -309,7 +309,7 @@
     </Item>
     <Item type="CHandlingData">
       <handlingName>2F2FMLE7</handlingName>
-      <fMass value="1600.000000" />
+      <fMass value="1500.000000" />
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.050000" z="-0.158000" />
@@ -370,7 +370,7 @@
     </Item>
     <Item type="CHandlingData">
       <handlingName>FNF4R34</handlingName>
-      <fMass value="1600.000000" />
+      <fMass value="1500.000000" />
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.050000" z="-0.158000" />
@@ -431,7 +431,7 @@
     </Item>
     <Item type="CHandlingData">
       <handlingName>2F2FGTR34</handlingName>
-      <fMass value="1600.000000" />
+      <fMass value="1500.000000" />
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.050000" z="-0.158000" />
@@ -492,7 +492,7 @@
     </Item>
     <Item type="CHandlingData">
       <handlingName>FNFRX7</handlingName>
-      <fMass value="1600.000000" />
+      <fMass value="1500.000000" />
       <fInitialDragCoeff value="8.700000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.070000" z="0.000000" />
@@ -553,7 +553,7 @@
     </Item>
     <Item type="CHandlingData">
       <handlingName>FNFMITS</handlingName>
-      <fMass value="1600.000000" />
+      <fMass value="1500.000000" />
       <fInitialDragCoeff value="9.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />

@@ -4,7 +4,7 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>I8</handlingName>
-      <fMass value="1600.000000" />
+      <fMass value="1400.000000" />
       <fInitialDragCoeff value="8.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.100000" z="-0.30000" />
