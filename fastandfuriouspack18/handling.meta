@@ -305,7 +305,7 @@
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
-      </SubHandlingData>
+     </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
       <handlingName>2F2FMLE7</handlingName>
@@ -324,8 +324,8 @@
       <fBrakeForce value="0.400000" />
       <fBrakeBiasFront value="0.650000" />
       <fHandBrakeForce value="0.700000" />
-      <fSteeringLock value="35.000000" />
-      <fTractionCurveMax value="2.350000" />
+      <fSteeringLock value="50.000000" />
+      <fTractionCurveMax value="2.350000" /
       <fTractionCurveMin value="1.950000" />
       <fTractionCurveLateral value="22.500000" />
       <fTractionSpringDeltaMax value="0.150000" />
