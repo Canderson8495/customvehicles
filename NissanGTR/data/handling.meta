@@ -5,7 +5,7 @@
     <Item type="CHandlingData">
       <handlingName>gtr</handlingName>
       <fMass value="1700.000000" />
-      <fInitialDragCoeff value="11.390000" />
+      <fInitialDragCoeff value="14.390000" />
 	  <fDownforceModifier value="1.390000" />
       <fPercentSubmerged value="76.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.132000" z="0.017000" />
