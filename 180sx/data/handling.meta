@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>NINEF</handlingName>
+      <handlingName>180SX</handlingName>
       <fMass value="1950" />
       <fInitialDragCoeff value="2.7" />
       <fPercentSubmerged value="85" />

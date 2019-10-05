@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>ninef</modelName>
-      <txdName>ninef</txdName>
-      <handlingId>NINEF</handlingId>
-      <gameName>ninef</gameName>
+      <modelName>180sx</modelName>
+      <txdName>180sx</txdName>
+      <handlingId>180SX</handlingId>
+      <gameName>180sx</gameName>
       <vehicleMakeName>Nissan</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -116,7 +116,7 @@
   <txdRelationships>
     <Item>
       <parent>vehicles_monroe_interior</parent>
-      <child>chevelless</child>
+      <child>180sx</child>
     </Item>
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>

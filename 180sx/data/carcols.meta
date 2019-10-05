@@ -2,7 +2,7 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>492_ninef_modkit</kitName>
+      <kitName>180sx_bodykit</kitName>
       <id value="492" />	 	  
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
