@@ -6,6 +6,7 @@ files {
     'data/vehicles.meta',
     'data/carvariations.meta',
     'data/carcols.meta',
+    'data/handling.meta',
 --    'data/vehiclelayouts.meta',
 --    'data/contentunlocks.meta',
 }
