@@ -7,7 +7,7 @@
    <Item>
       <modelName>teslax</modelName>
       <txdName>teslax</txdName>
-      <handlingId>TESLAX</handlingId>
+      <handlingId>teslax</handlingId>
       <gameName>teslax</gameName>
       <vehicleMakeName>KARIN</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
