@@ -4,7 +4,7 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>gtr</handlingName>
-      <fMass value="1700.000000" />
+      <fMass value="2200.000000" />
       <fInitialDragCoeff value="40.390000" />
 	  <fDownforceModifier value="1.390000" />
       <fPercentSubmerged value="76.000000" />
@@ -12,7 +12,7 @@
       <vecInertiaMultiplier x="1.150000" y="1.000000" z="1.680000" />
       <fDriveBiasFront value="0.155000" />
       <nInitialDriveGears value="8" />
-      <fInitialDriveForce value="8.805000" />
+      <fInitialDriveForce value="0.405000" />
       <fDriveInertia value="2.000000" />
       <fClutchChangeRateScaleUpShift value="3.300000" />
       <fClutchChangeRateScaleDownShift value="3.300000" />
