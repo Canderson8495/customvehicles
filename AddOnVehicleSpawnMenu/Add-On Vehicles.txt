@@ -3,3 +3,11 @@ teslax:Tesla:7
 2015polstang:mustang:7
 18performante:performante:7
 silvia14:S14:7
+ferrari812:F812:7
+italia458:Ital:7
+lykan:Lyk:7
+huracan:Hurry:7
+fxxk16:fx:7
+lw458s:LW:7
+laferrari15:laferri:7
+veneno:veno:7
