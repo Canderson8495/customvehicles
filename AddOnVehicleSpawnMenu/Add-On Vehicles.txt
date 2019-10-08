@@ -15,4 +15,3 @@ s15rb:s15:7
 cb650fr:RepBike:7
 demonhawk:Demon:7
 raptor2017:rap:7
-ninja:ninja:7
