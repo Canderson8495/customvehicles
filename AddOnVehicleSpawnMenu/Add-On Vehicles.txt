@@ -20,3 +20,4 @@ RC350:Lexusrocket:7
 r1:r1:7
 FK8:CivicTypeR:7
 demon:DodgeDemon:7
+yzfr6:R6:7
