@@ -18,3 +18,4 @@ raptor2017:rap:7
 16m5:16m5:7
 RC350:Lexusrocket:7
 r1:r1:7
+FK8:CivicTypeR:7
