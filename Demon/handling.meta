@@ -15,7 +15,7 @@
     <Item type="CHandlingData">
       <handlingName>demonhawk</handlingName>
       <fMass value="2870.000000" />
-      <fInitialDragCoeff value="1.220000" />
+      <fInitialDragCoeff value="8.220000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.050000" z="-0.200000" />
       <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.300000" />
