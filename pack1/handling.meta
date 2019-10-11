@@ -17,7 +17,7 @@
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="9.000000" />
       <fClutchChangeRateScaleDownShift value="9.000000" />
-      <fInitialDriveMaxFlatVel value="240.200000" />
+      <fInitialDriveMaxFlatVel value="260.200000" />
       <fBrakeForce value="1.200000" />
       <fBrakeBiasFront value="0.450000" />
       <fHandBrakeForce value="0.500000" />
@@ -74,13 +74,13 @@
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="7.000000" />
       <fClutchChangeRateScaleDownShift value="6.000000" />
-      <fInitialDriveMaxFlatVel value="240.300000" />
+      <fInitialDriveMaxFlatVel value="260.300000" />
       <fBrakeForce value="1.100000" />
       <fBrakeBiasFront value="0.450000" />
       <fHandBrakeForce value="0.500000" />
       <fSteeringLock value="40.000000" />
-      <fTractionCurveMax value="2.680000" />
-      <fTractionCurveMin value="2.550000" />
+      <fTractionCurveMax value="3.280000" />
+      <fTractionCurveMin value="3.100000" />
       <fTractionCurveLateral value="22.500000" />
       <fTractionSpringDeltaMax value="0.150000" />
       <fLowSpeedTractionLossMult value="1.300000" />
@@ -106,7 +106,7 @@
       <fOilVolume value="5.000000" />
       <fSeatOffsetDistX value="0.000000" />
       <fSeatOffsetDistY value="-0.150000" />
-      <fSeatOffsetDistZ value="0.050000" />
+      <fSeatOffsetDistZ value="-0.030000" />
       <nMonetaryValue value="35000" />
       <strModelFlags>440010</strModelFlags>
       <strHandlingFlags>20002</strHandlingFlags>
