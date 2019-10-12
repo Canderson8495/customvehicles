@@ -20,7 +20,7 @@
       <fHandBrakeForce value="0.600000" />
       <fSteeringLock value="40.000000" />
       <fTractionCurveMax value="3.500000" />
-      <fTractionCurveMin value="3.400000" />
+      <fTractionCurveMin value="3.100000" />
       <fTractionCurveLateral value="22.500000" />
       <fTractionSpringDeltaMax value="0.020000" />
       <fLowSpeedTractionLossMult value="0.900000" />
@@ -46,7 +46,7 @@
       <fOilVolume value="5.000000" />
       <fSeatOffsetDistX value="0.000000" />
       <fSeatOffsetDistY value="0.000000" />
-      <fSeatOffsetDistZ value="0.000000" />
+      <fSeatOffsetDistZ value="-0.500000" />
       <nMonetaryValue value="35000" />
       <strModelFlags>440010</strModelFlags>
       <strHandlingFlags>0</strHandlingFlags>
