@@ -5,13 +5,13 @@
     <Item type="CHandlingData">
       <handlingName>370Z</handlingName>
       <fMass value="1500.000000" />
-      <fInitialDragCoeff value="17.000000" />
+      <fInitialDragCoeff value="19.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0" y="0" z="0" />
       <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="1.55000" />
+      <fInitialDriveForce value="1.25000" />
       <fDriveInertia value="5.000000" />
       <fClutchChangeRateScaleUpShift value="20.800000" />
       <fClutchChangeRateScaleDownShift value="15.800000" />
