@@ -5,13 +5,13 @@
     <Item type="CHandlingData">
       <handlingName>370Z</handlingName>
       <fMass value="1500.000000" />
-      <fInitialDragCoeff value="23.000000" />
+      <fInitialDragCoeff value="20.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0" y="0" z="0" />
       <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="1.25000" />
+      <fInitialDriveForce value="1.00000" />
       <fDriveInertia value="5.000000" />
       <fClutchChangeRateScaleUpShift value="20.800000" />
       <fClutchChangeRateScaleDownShift value="15.800000" />
@@ -19,12 +19,12 @@
       <fBrakeForce value="9.900000" />
       <fBrakeBiasFront value="0.455000" />
       <fHandBrakeForce value="11.600000" />
-      <fSteeringLock value="49.000000" />
+      <fSteeringLock value="45.000000" />
       <fTractionCurveMax value="2.600000" />
       <fTractionCurveMin value="2.320000" />
       <fTractionCurveLateral value="42.100000" />
       <fTractionSpringDeltaMax value="0.150000" />
-      <fLowSpeedTractionLossMult value="0.200000" />
+      <fLowSpeedTractionLossMult value="0.400000" />
       <fCamberStiffnesss value="0" />
       <fTractionBiasFront value="0.390000" />
       <fTractionLossMult value="0.940000" />
