@@ -5,7 +5,7 @@
     <Item type="CHandlingData">
       <handlingName>370Z</handlingName>
       <fMass value="1500.000000" />
-      <fInitialDragCoeff value="19.000000" />
+      <fInitialDragCoeff value="23.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0" y="0" z="0" />
       <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
