@@ -24,3 +24,4 @@ audis8om:audiR8:7
 510:Datsun:7
 180sx:180sx:7
 370z:370z:7
+polamb:polamb:7
